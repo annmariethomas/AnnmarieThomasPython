@@ -1,7 +1,7 @@
 print(" ------------------------------------------------")
 print("|                                                |")
 print("|    03GoodbyePerson                             |")
-print("|    Name : Annmarie Thomas                         |")
+print("|    Name : Annmarie Thomas                      |")
 print("|    Version : 01                                |")
 print("|                                                |")
 print(" ------------------------------------------------")
