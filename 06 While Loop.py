@@ -5,10 +5,10 @@ print("|    Name : Annmarie Thomas                      |")
 print("|    Version : 01                                |")
 print("|                                                |")
 print(" ------------------------------------------------")
-ans = input("What is the name of this class? ")
+ans = input("What is the name of the subject ")
 while ans != ("IST"):
     print("Not correct - try again")
-    ans = input("What is the name of this class? ")
+    ans = input("What is the name of the subject ")
     continue
 else:
     print("\nCongratulations!!")
