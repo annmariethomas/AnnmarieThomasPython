@@ -11,4 +11,8 @@ while ans != ("IST"):
     ans = input("What is the name of the subject ")
     continue
 else:
+    print("")
+    print("")
     print("\nCongratulations!!")
+    print("")
+    print("")
